@@ -1,2 +1,2 @@
 # Prueba-Sistemas-Multimedia
-# Prueba de conflicto
+# Prueba de conflictos
